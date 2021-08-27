@@ -42,7 +42,7 @@ see "Todo.md" for more details.
 - To run the program, execute each cell on the notebook sequentially
 
 ## Recommendation
-- The use of other features like review_summary to train datasets for better prediction
+- The use of additional features like review_summary to train datasets for better prediction
 - Carrying out sampling due top data imbalance
 
 ## Results
