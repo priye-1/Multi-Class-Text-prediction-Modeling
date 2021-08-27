@@ -27,7 +27,7 @@ see "Todo.md" for more details.
     ```
 - Activate the Virtual environment
     ```bash
-    {path to desired directory} source .venv/bin/activate
+    source .venv/bin/activate
     ```
 
 - Install requirements
@@ -46,7 +46,7 @@ see "Todo.md" for more details.
 - Carrying out sampling due top data imbalance
 
 ## Results
-- SVM and Naive Bayes were the two algorithms used. SVM has better performance.
+- SVM and Naive Bayes were the two algorithms used. However, SVM had better performance.
 
 
 ## Built with
