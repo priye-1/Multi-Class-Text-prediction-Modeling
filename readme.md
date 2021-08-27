@@ -10,10 +10,11 @@ see "Todo.md" for more details.
     ```bash
      https://github.com/priye-1/Multi-class-prediction-modeling.git
     ```
--mkdir for project and cd into directory
-  ```bash
+- create project directory
+    ```bash
     mkdir review-predictive-modeling
     ```
+-  cd into directory
     
     ```bash
     cd review-predictive-modeling
