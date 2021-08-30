@@ -38,12 +38,11 @@ see "Todo.md" for more details.
     ```
 
 ## Running Scripts
-- Download Data - review.csv from link: https://teamqde-my.sharepoint.com/:u:/r/personal/swen_sieben_teamq_de/Documents/reviews.csv.gz?csf=1&web=1&e=1KyzGA
 - To run the program, execute each cell on the notebook sequentially
 
 ## Recommendation
-- The use of additional features like review_summary to train datasets for better prediction
-- Carrying out sampling due top data imbalance
+- The use of additional features like review_summary to train datasets for better model performance
+- Carrying out sampling due to data imbalance
 
 ## Results
 - SVM and Naive Bayes were the two algorithms used. However, SVM had better performance.
